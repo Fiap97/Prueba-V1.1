@@ -1,0 +1,23 @@
+p{
+    text-align: justify;
+}
+article{
+	clear:both;
+	margin:10px;
+}
+
+section{
+   clear:both;
+   width:40;
+   float:left;
+}
+
+
+article figure{
+	float: left;
+    display: block;
+    width: 40%;
+    padding: 0px 0px 0px 5px;
+    border: thin silver solid;
+    margin-right: 5px;
+}
