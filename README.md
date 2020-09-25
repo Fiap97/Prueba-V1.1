@@ -1,3 +1,5 @@
+Este proyecto es sobre una pagina de noticias.
+
 # NoticiasWeb
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
