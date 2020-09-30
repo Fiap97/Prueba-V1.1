@@ -3,7 +3,6 @@ import { Routes, RouterModule } from '@angular/router';
 import { DetalleNoticiaScreenComponent } from './pantallas/detalle-noticia-screen/detalle-noticia-screen.component';
 import { InicioScreenComponent } from './pantallas/inicio-screen/inicio-screen.component';
 import { NoticiasSemanaScrennComponent } from './pantallas/noticias-semana-screnn/noticias-semana-screnn.component';
-import {VideosNoticiaScreenComponent}  from './pantallas/videos-noticia-screen/videos-noticia-screen.component'
 
 const routes: Routes = [
   {
@@ -14,9 +13,6 @@ const routes: Routes = [
   },
   {
     path: 'noticias-semana', component: NoticiasSemanaScrennComponent,
-  },
-  {
-    path: 'videos', component: VideosNoticiaScreenComponent,
   },
   {
     path: 'detalle-noticia/:id', component: DetalleNoticiaScreenComponent

@@ -1,5 +1,6 @@
 p{
     text-align: justify;
+    text-indent: 50px;
 }
 article{
 	clear:both;
@@ -11,7 +12,10 @@ section{
    width:40;
    float:left;
 }
-
+h3{
+    text-align: justify;
+    color: black;
+}
 
 article figure{
 	float: left;
